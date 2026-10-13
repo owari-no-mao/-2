@@ -1,0 +1,8 @@
+{
+  "name": "Remix 知恵の実 - 人類文明起源シミュレーター",
+  "description": "人間が動物から知的生命体へと進化する過程をシミュレーションし、人の特性・コミュニケーション・リソース管理と意思決定を通じて文明の成立を探求するシミュレーションゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
